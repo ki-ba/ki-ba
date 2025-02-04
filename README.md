@@ -1,5 +1,23 @@
-## Hi there 👋
-
- I'm a student at 42 Lyon.
- 
-- 🌱 I’m currently learning C Development, Systems administration and DevOps.
+                               _
+                           ,--.\`-. __
+                         _,.`. \:/,"  `-._
+                     ,-*" _,.-;-*`-.+"*._ )                                     I'm a student at __42 Lyon__.
+                    ( ,."* ,-" / `.  \.  `.                                     I’m currently learning __C Development__, __Systems administration__ and __DevOps__.
+                   ,"   ,;"  ,"\../\  \:   \
+                  (   ,"/   / \.,' :   ))  /
+                   \  |/   / \.,'  /  // ,'
+                    \_)\ ,' \.,'  (  / )/                                       [My digital garden](https://ki-ba.github.io/digital-garden)
+                        `  \._,'   `"
+                           \../
+                           \../
+                 ~        ~\../           ~~
+          ~~          ~~   \../   ~~   ~      ~~
+     ~~    ~   ~~  __...---\../-...__ ~~~     ~~
+       ~~~~  ~_,--'        \../      `--.__ ~~    ~~
+   ~~~  __,--'              `"             `--.__   ~~~
+~~  ,--'                                         `--.
+   '------......______             ______......------` ~~
+ ~~~   ~    ~~      ~ `````---"""""  ~~   ~     ~~
+        ~~~~    ~~  ~~~~       ~~~~~~  ~ ~~   ~~ ~~~  ~
+     ~~   ~   ~~~     ~~~ ~         ~~       ~~   SSt
+              ~        ~~       ~~~       ~
