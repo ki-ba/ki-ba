@@ -1,12 +1,12 @@
                                _
                            ,--.\`-. __
                          _,.`. \:/,"  `-._
-                     ,-*" _,.-;-*`-.+"*._ )                                     I'm a student at __42 Lyon__.
-                    ( ,."* ,-" / `.  \.  `.                                     I’m currently learning __C Development__, __Systems administration__ and __DevOps__.
-                   ,"   ,;"  ,"\../\  \:   \
+                     ,-*" _,.-;-*`-.+"*._ )           # I'm a student at 42 Lyon.
+                    ( ,."* ,-" / `.  \.  `.           # I’m currently learning C Development, 
+                   ,"   ,;"  ,"\../\  \:   \          # System administration, and DevOps.
                   (   ,"/   / \.,' :   ))  /
                    \  |/   / \.,'  /  // ,'
-                    \_)\ ,' \.,'  (  / )/                                       [My digital garden](https://ki-ba.github.io/digital-garden)
+                    \_)\ ,' \.,'  (  / )/
                         `  \._,'   `"
                            \../
                            \../
@@ -14,10 +14,10 @@
           ~~          ~~   \../   ~~   ~      ~~
      ~~    ~   ~~  __...---\../-...__ ~~~     ~~
        ~~~~  ~_,--'        \../      `--.__ ~~    ~~
-   ~~~  __,--'              `"             `--.__   ~~~
-~~  ,--'                                         `--.
-   '------......______             ______......------` ~~
- ~~~   ~    ~~      ~ `````---"""""  ~~   ~     ~~
-        ~~~~    ~~  ~~~~       ~~~~~~  ~ ~~   ~~ ~~~  ~
-     ~~   ~   ~~~     ~~~ ~         ~~       ~~   SSt
-              ~        ~~       ~~~       ~
+     __,--'              `"             `--.__   ~~~
+     ,--'                                         `--.
+
+
+## Links
+
+🌻 [My digital garden](https://ki-ba.github.io/digital-garden)
