@@ -20,4 +20,4 @@
 
 ## Links
 
-🌻 [My digital garden](https://ki-ba.github.io/digital-garden)
+🌻 [My digital garden](https://ki-ba.github.io/garden)
